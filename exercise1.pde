@@ -55,7 +55,7 @@ stroke(0);
 fill(0);
 ellipse(380,160,70,70);
 
-stroke(255);
+stroke(255); 
 fill(255);
 ellipse(380,160,30,30);
 
